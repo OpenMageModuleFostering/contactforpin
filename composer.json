@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/contactforpin",
+    "name": "OpenMageModuleFostering\/contactforpin",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
     "description": "Customer contact form extension is a contact form which saves the customer details into the database, and also send an email to the admin support mail and admin can export customer details.",
     "authors": [
-    {
-        "name": "Naveenbos",
-        "email": "naveen.bos@gmail.com"
-    }
-],
+        {
+            "name": "Naveenbos",
+            "email": "naveen.bos@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
